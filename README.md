@@ -7,8 +7,8 @@ upload:
 4. python remove T & Time +1
 5. walmart database
 
-Kaggle project
-Final project
+* Kaggle project
+* Final project
 
 * DB presentation 2/29
 * ML presentation TBD
