@@ -10,5 +10,5 @@ upload:
 Kaggle project
 Final project
 
-DB presentation 2/29
-ML presentation TBD
+* DB presentation 2/29
+* ML presentation TBD
