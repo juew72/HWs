@@ -3,7 +3,7 @@
 upload:
 1. SQL 70+ questions
 2. SQL linkedIn question
-3. python order.py
+* python order.py
 4. python remove T & Time +1
 * walmart database
 
