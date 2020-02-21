@@ -7,6 +7,10 @@ upload:
 4. python remove T & Time +1
 * walmart database
 
+
+
+
+
 * Kaggle project
 * Final project
 
