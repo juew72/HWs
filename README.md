@@ -5,7 +5,7 @@ upload:
 1. SQL 70+ questions
 * SQL linkedIn question
 * python order.py
-4. python remove T & Time +1
+* python remove T & Time +1
 5. walmart database
 6. Kaggle project
 7. Final project
