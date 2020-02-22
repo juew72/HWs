@@ -6,7 +6,7 @@ upload:
 * python order.py
 4. python remove T & Time +1
 * walmart database
-6 Kaggle project
-7 Final project
-8 DB presentation 2/29
-9 ML presentation TBD
+6. Kaggle project
+7. Final project
+8. DB presentation 2/29
+9. ML presentation TBD
