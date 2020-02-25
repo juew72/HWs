@@ -2,7 +2,7 @@
 
 upload:
 
-1. SQL 70+ questions
+* SQL 70+ questions
 * SQL linkedIn question
 * python order.py
 * python remove T & Time +1
