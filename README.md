@@ -6,7 +6,7 @@ upload:
 * SQL linkedIn question
 * python order.py
 * python remove T & Time +1
-5. walmart database
+* walmart database
 6. Kaggle project
 7. Final project
 8. DB presentation 2/29
